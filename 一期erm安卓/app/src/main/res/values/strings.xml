@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">星空移动办公平台</string>
+    <string name="login_label_username">账号</string>
+    <string name="login_label_password">密码</string>
+    <string name="login_label_jizhumima">记住密码</string>
+    <string name="login_label_singin">登陆ERM</string>
+</resources>
